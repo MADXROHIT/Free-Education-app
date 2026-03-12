@@ -1,39 +1,40 @@
 {
- "apps":[
-  {
-   "name":"𝗞𝗛𝗔𝗡 𝗚𝗟𝗢𝗕𝗔𝗟 𝗦𝗧𝗨𝗗𝗜𝗘𝗦",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
-   "url":"https://vip-khan-sir.vercel.app/"
-  },
-  {
-   "name":"𝗖𝗔𝗥𝗘𝗘𝗥𝗪𝗜𝗟𝗟",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X9kuDDeIn6NEUJW3cGtsn_Q0liuV5J59Or9J01nZ8w&s=10",
-   "url":"https://vipcw.vercel.app/"
-  },
-  {
-   "name":"𝗦𝗘𝗟𝗘𝗖𝗧𝗜𝗢𝗡 𝗪𝗔𝗬 ",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
-   "url":"https://spidyway.vercel.app/"
-  },
-  {
-   "name":" 𝗞𝗚𝗦 ",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
-   "url":"http://Spidykgs.vercel.app"
-  },
-  {
-   "name":"𝗥𝗢𝗝𝗚𝗔𝗥 𝗪𝗜𝗧𝗛 𝗔𝗡𝗞𝗜𝗧 ",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
-   "url":"http://spidyuniverserwa.vercel.app"
-  },
+  "force_update": false,
+  "message": "New version available, please update app.",
+
+  "apps":[
     {
-   "name":"𝗥𝗢𝗝𝗚𝗔𝗥 𝗪𝗜𝗧𝗛 𝗔𝗡𝗞𝗜𝗧 ",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
-   "url":"https://viprwa.vercel.app/batches"
-  },
+      "name":"𝗞𝗛𝗔𝗡 𝗚𝗟𝗢𝗕𝗔𝗟 𝗦𝗧𝗨𝗗𝗜𝗘𝗦",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "url":"https://vip-khan-sir.vercel.app/"
+    },
     {
-   "name":"𝗨𝗧𝗞𝗔𝗥𝗦𝗛 𝗖𝗟𝗔𝗦𝗦𝗘𝗦 ",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArSiwZgH7VLP4iQwX59uf0ZCQ5tIAjOQ96UpgvRIJ-pCOFmOzPUDdmE8&s",
-   "url":"https://spidyutkarsh.vercel.app/"
+      "name":"𝗖𝗔𝗥𝗘𝗘𝗥𝗪𝗜𝗟𝗟",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X9kuDDeIn6NEUJW3cGtsn_Q0liuV5J59Or9J01nZ8w&s=10",
+      "url":"https://vipcw.vercel.app/"
+    },
+    {
+      "name":"𝗦𝗘𝗟𝗘𝗖𝗧𝗜𝗢𝗡 𝗪𝗔𝗬",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "url":"https://spidyway.vercel.app/"
+    },
+    {
+      "name":"𝗞𝗚𝗦",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "url":"http://Spidykgs.vercel.app"
+    },
+    {
+      "name":"𝗥𝗢𝗝𝗚𝗔𝗥 𝗪𝗜𝗧𝗛 𝗔𝗡𝗞𝗜𝗧",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
+      "url":"http://spidyuniverserwa.vercel.app"
+    },
+    {
+      "name":"𝗥𝗢𝗝𝗚𝗔𝗥 𝗪𝗜𝗧𝗛 𝗔𝗡𝗞𝗜𝗧",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
+      "url":"https://viprwa.vercel.app/batches"
+    },
+    {
+      "name":"𝗨𝗧𝗞𝗔𝗥𝗦𝗛 𝗖𝗟𝗔𝗦𝗦𝗘𝗦",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArSiwZgH7VLP4iQwX59uf0ZCQ5tIAjOQ96UpgvRIJ-pCOFmOzPUDdmE8&s",
+      "url":"https://spidyutkarsh.vercel.app/"
     }
- ]
-}
