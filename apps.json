@@ -4,6 +4,11 @@
 
   "apps":[
     {
+      "name":"𝗚𝗬𝗔𝗡𝗕𝗜𝗡𝗗𝗨 𝗚𝗦 𝗔𝗖𝗔𝗗𝗘𝗠𝗬",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
+      "url":"https://sunny-gyanbindu.vercel.app/"
+    },
+    {
       "name":"𝗞𝗛𝗔𝗡 𝗚𝗟𝗢𝗕𝗔𝗟 𝗦𝗧𝗨𝗗𝗜𝗘𝗦",
       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
       "url":"https://vip-khan-sir.vercel.app/"
