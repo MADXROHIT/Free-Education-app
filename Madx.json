@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "id": "pw",
+      "name": "PW MOD",
+      "image": "https://i.imgur.com/xyz.png",
+      "study_link": "https://yourserver.com/pw",
+      "download_link": "https://download.com/pw.apk",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
+    {
+      "id": "kgs",
+      "name": "Khan Global",
+      "image": "https://i.imgur.com/abc.png",
+      "study_link": "https://yourserver.com/kgs",
+      "download_link": "https://download.com/kgs.apk",
+      "tag": "New",
+      "color": "#22C55E"
+    }
+  ]
+}
