@@ -3,8 +3,8 @@
     {
       "id": "pw",
       "name": "PW MOD",
-      "image": "https://i.imgur.com/xyz.png",
-      "study_link": "https://yourserver.com/pw",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeauzNEbGI-3auGG6KrHQ0ZdNXvhqI4vK4qnYBokIdg&s",
+      "study_link": "pwthor.site/study/batches",
       "download_link": "https://download.com/pw.apk",
       "tag": "Popular",
       "color": "#6366F1"
@@ -12,8 +12,8 @@
     {
       "id": "kgs",
       "name": "Khan Global",
-      "image": "https://i.imgur.com/abc.png",
-      "study_link": "https://yourserver.com/kgs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvKf9CrNmzusLGh0sl-M2_Nfys9WFpEN7ro_fd2oOOQ&s=10",
+      "study_link": "https://spidykgs.vercel.app",
       "download_link": "https://download.com/kgs.apk",
       "tag": "New",
       "color": "#22C55E"
