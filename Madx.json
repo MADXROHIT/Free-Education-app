@@ -1,22 +1,112 @@
 {
   "apps": [
     {
-      "id": "pw",
-      "name": "PW MOD",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeauzNEbGI-3auGG6KrHQ0ZdNXvhqI4vK4qnYBokIdg&s",
-      "study_link": "pwthor.site/study/batches",
-      "download_link": "https://download.com/pw.apk",
+      "id": "vibrant",
+      "name": "VIBRANT ACADEMY KOTA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fgf3tkFDQZPwJIlDz7rYDFIJiraFHgQKFUvUkwmffA&s=10",
+      "study_link": "https://nt-spidyuniverse.onrender.com/",
+      "download_link": "https://nt-spidyuniverse.onrender.com/",
       "tag": "Popular",
       "color": "#6366F1"
     },
     {
-      "id": "kgs",
-      "name": "Khan Global",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvKf9CrNmzusLGh0sl-M2_Nfys9WFpEN7ro_fd2oOOQ&s=10",
-      "study_link": "https://spidykgs.vercel.app",
-      "download_link": "https://download.com/kgs.apk",
+      "id": "gyanbindu",
+      "name": "GYANBINDU GS ACADEMY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
+      "study_link": "https://sunny-gyanbindu.vercel.app/",
+      "download_link": "https://sunny-gyanbindu.vercel.app/",
       "tag": "New",
       "color": "#22C55E"
+    },
+    {
+      "id": "kgs",
+      "name": "KHAN GLOBAL STUDIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://vip-khan-sir.vercel.app/",
+      "download_link": "https://vip-khan-sir.vercel.app/",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
+    {
+      "id": "missionjeet",
+      "name": "MISSION JEET NEXT TOPPER",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUc6TqGXi1WhhtqqX7U5IhN97Xl4CY7xJhufDHr-Kjmg&s=10",
+      "study_link": "http://MissionJEET.deltastudy.site",
+      "download_link": "http://MissionJEET.deltastudy.site",
+      "tag": "Hot",
+      "color": "#EF4444"
+    },
+    {
+      "id": "nexttopper",
+      "name": "NEXT TOPPER",
+      "image": "https://decicqog4ulhy.cloudfront.net/0/admin_v2/uploads/courses/thumbnail/2671188_1_logo.jpg",
+      "study_link": "http://nt.deltastudy.site",
+      "download_link": "http://nt.deltastudy.site",
+      "tag": "",
+      "color": "#6366F1"
+    },
+    {
+      "id": "pwtest",
+      "name": "PHYSICS WALLAH TEST SERIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1plcMrWwVtz1_zK8I6kbPtktbGikeJ55Ukuaad408XQ&s",
+      "study_link": "http://Test.deltastudy.site",
+      "download_link": "http://Test.deltastudy.site",
+      "tag": "Test",
+      "color": "#22C55E"
+    },
+    {
+      "id": "careerwill",
+      "name": "CAREERWILL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4X9kuDDeIn6NEUJW3cGtsn_Q0liuV5J59Or9J01nZ8w&s=10",
+      "study_link": "https://vipcw.vercel.app/",
+      "download_link": "https://vipcw.vercel.app/",
+      "tag": "",
+      "color": "#6366F1"
+    },
+    {
+      "id": "selectionway",
+      "name": "SELECTION WAY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://deltastudy.site/selectionway",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "rwa",
+      "name": "ROJGAR WITH ANKIT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
+      "study_link": "https://viprwa.vercel.app/batches",
+      "download_link": "https://viprwa.vercel.app/batches",
+      "tag": "",
+      "color": "#6366F1"
+    },
+    {
+      "id": "yesofficer",
+      "name": "YES OFFICER",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmGxT6mofaNG-Pkq57IqTY0qSenKC3_rFXQtjNj5Xtg&s",
+      "study_link": "https://yesofficerfree.vercel.app",
+      "download_link": "https://yesofficerfree.vercel.app",
+      "tag": "New",
+      "color": "#22C55E"
+    },
+    {
+      "id": "studyiq",
+      "name": "STUDY IQ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
+      "study_link": "http://spidyiq.vercel.app",
+      "download_link": "http://spidyiq.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+    {
+      "id": "testbook",
+      "name": "TESTBOOK MINI",
+      "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
+      "study_link": "http://Sdvmock.page.gd",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Test",
+      "color": "#EF4444"
     }
   ]
 }
