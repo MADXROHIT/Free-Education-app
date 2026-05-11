@@ -4,6 +4,15 @@
 
 
   "apps": [
+     {
+      "id": "Science &Fun",
+      "name": "Science & Fun ",
+      "image": "https://appx-wsb-gcp-mcdn.akamai.net.in/subject/2022-11-09-0.46231084813575274.png",
+      "study_link": "https://scienceandfun.vercel.app",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Boards",
+      "color": "#EF4444"
+        },
    {
       "id": "Cds Journey",
       "name": "Cds Journey ",
