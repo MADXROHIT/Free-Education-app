@@ -5,6 +5,15 @@
 
   "apps": [
     {
+      "id": "utkarsh ",
+      "name": "Utkarsh Classes ",
+      "image": "https://play-lh.googleusercontent.com/MomeMTsZCuTtpb8EiLcT3hqUtm2wzbL6fOWJo_qCIjK8UOYYJar9BiLRCYWuM-kXPKY",
+      "study_link": "https://spidyutkarsh.vercel.app",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Top",
+      "color": "#008000"
+        },
+    {
       "id": "RG Vikramjeet ",
       "name": "RG Vikarmjeet ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpPDIhLQa9pfBaInjOqZgxFsWpDwSWghhJBmHFEti9w&s=10",
